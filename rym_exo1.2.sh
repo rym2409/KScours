@@ -6,5 +6,5 @@ mv Tp1.c ../
 mv Tp2.c ../
 mv Executables ../
 cd ..
-rm -r TpsUNIX
 rm -r TPsC
+cd hmed
